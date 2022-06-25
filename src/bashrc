@@ -1,3 +1,4 @@
+export PATH=~/.bin/
 clear
 cat << EndOfMessage
 Hey, welcome to Linux if you are new!
