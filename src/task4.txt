@@ -1,0 +1,6 @@
+Instead of manually listing files in every folder we can use the find program to help us.
+
+# Task 4
+Find the haystack directory.  You will find task5.txt is inside it.
+
+Hint: You can use find to search for the task file or the directory.

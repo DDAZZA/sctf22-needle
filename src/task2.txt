@@ -1,0 +1,7 @@
+
+Commands can be given arguments to configure what they do
+
+You can read the manual for a PROGRAM with the `man` program.
+For example: `$ man PROGRAM_NAME`
+
+Hint: Some files are hidden by default, so you will need to find a way to list everything.

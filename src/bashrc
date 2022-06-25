@@ -1,0 +1,12 @@
+clear
+cat << EndOfMessage
+Hey, welcome to Linux if you are new!
+
+There is a flag hidden on this server.
+
+You can play this challenge by following the step by step tasks or you can just go start looking for the needle in the haystack now.
+
+# Task 1
+The 'cat' command can be used to concatenate files to the standard ouput.
+Run the command '$ cat README.txt' to print out the contents of the README.txt file.
+EndOfMessage

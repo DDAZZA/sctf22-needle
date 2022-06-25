@@ -1,0 +1,6 @@
+You found the hidden file!
+
+You can also use 'ls' to list files in other directories/folders.
+
+# Task 3
+Look in the /tmp/ directory for your next task.
