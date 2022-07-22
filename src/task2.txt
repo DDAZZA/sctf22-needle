@@ -1,7 +1,17 @@
+# README.txt
+Note: If you want to quit at anytime you can type the command 'exit'.
+If things get messy you can press <ctrl>+c to interupt the current command and reset your prompt
 
-Commands can be given arguments to configure what they do
+Commands can be given arguments to configure what they do.
 
-You can read the manual for a PROGRAM with the `man` program.
-For example: `$ man PROGRAM_NAME`
+# Task 2
+Find and read the hidden file in this directory.
 
-Hint: Some files are hidden by default, so you will need to find a way to list everything.
+You can oftern read the help for a program with the '--help' argument.  For example: 'ls --help'
+
+The web is also a great resource for finding examples of how to use different programs.
+
+
+# Hint
+Some files are hidden by default, so you will need to find a way to list everything.
+

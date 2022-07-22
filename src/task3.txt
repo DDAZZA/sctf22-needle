@@ -2,5 +2,8 @@ You found the hidden file!
 
 You can also use 'ls' to list files in other directories/folders.
 
+If you want to find out what directory you are currently using you can use the 'pwd' command to print the current working directory.
+
 # Task 3
-Look in the /tmp/ directory for your next task.
+Using 'ls' again look in the '/tmp/' directory for your next task.
+

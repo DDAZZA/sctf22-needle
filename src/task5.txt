@@ -4,3 +4,4 @@ To search inside the contents of a file we can use the 'grep' program.
 Task 5: Find the file with 'NEEDLE'.
 
 Hint: The file with the needle will have the final task.
+

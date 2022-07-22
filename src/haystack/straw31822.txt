@@ -1,1 +1,9 @@
-tDFXWZKKZpYrPxIyHbADWOUXupMWiS9Eqldfj7b0dHl9W7Hx9Tz1uG87vb5hQdV0vAMp01xDHEyrSY1Ew5fAQ43CcIEDC5C3j2A09yTtBqhlsnTBITc1zhIdJaj8xBRkzbsiY21A25UtvmTZdyVOt35wm3LlwJ14yUDwnV0wmbSxclSJ2FMEp2gunjqmyKKCkR9SK2RoEpiIGltuD8KcMrTNRMh9ljm7fwYk0RGQnu3IaQmx7RNGUB0Lh9CoEe78NEEDLE\nUse the base32 program to decode the following\nKRUGKIDGNRQWOIDJOMQFGQ2UIYZDE63MNFXHK6C7MJAWSY3TPU======
+tDFXWZKKZpYrPxIyNEEDLEHbADWOUXupMWiS9Eqldfj7b0dHl9W7Hx9Tz1uG87vb5hQdV0vAMp01xDHEyrSY1Ew5fAQ43CcIEDC5C3j2A09yTtBqhlsnTBITc1zhIdJaj8xBRkzbsiY21A25UtvmTZdyVOt35wm3LlwJ14yUDwnV0wmbSxclSJ2FMEp2gunjqmyKKCkR9SK2RoEpiIGltuD8KcMrTNRMh9ljm7fwYk0RGQnu3IaQmx7RNGUB0Lh9CoEe78
+Well done finding this file.
+
+
+Decode the last line in this file with the 'base32' program
+
+You can use the 'tail' program to get the last line of this file e.g. 'tail -1 FILE'
+Hint: You will need to use a pipe '|' to pass the data between the programs
+KRUGKIDGNRQWOIDJOMQFGQ2UIYZDE63MNFXHK6C7MJAWSY3TPU======
